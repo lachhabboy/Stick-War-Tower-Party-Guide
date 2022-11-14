@@ -1,0 +1,36 @@
+[{
+		"name": "Choosing Your Upgrades:",
+		"description": "Each time you complete a stage you get 2 upgrade points, deciding where you place these upgrades will affect your strategy early in the game. Knowing what type of player you are might help you choose. Are you aggressive? If so perhaps you'll want to upgrade your swordwrath or speartons to be ultra powerful. Do you prefer economic might? If so you should put your points into your miner and statue income upgrades. Perhaps you're like me, the cheap type? In that case sit back and let your archidons do all the work. The point is that there are several allies you can choose and none is right or wrong. However, focusing on only one strategy could make certain stages more difficult. If I was to make one recommendation on this I would say, don't spread your points too thin, and don't put them all into one area.",
+		"img": "http://www.stickpage.com/img/stickwar_guide_upgrademenu.jpg"
+	},
+	{
+		"name": " Archidonis:",
+		"description": "If you get a club man out early you should take control of him by clicking him with the mouse and controlling him with WASD/arrow keys, and space to attack.
+                    The advantage of controlling the unit yourself is that your attack is more powerful as well as your defense. Not only that, when you face an you should be able to move up and down the plane while running towards the , almost like a zig zag pattern which will make it much more difficult for the archidons to hit you. Once you're up close you will dominate.",
+		"img": "http://www.stickpage.com/img/stickwar_guide_archidon.jpg"
+	}, {
+		"name": " Survive Until the Sun Sets:",
+		"description": "You just got a new unit and you're dying to try it out. Well we're mean because we give you an enemy with a big shield and spear perfect for killing new archidons. None of your units are powerful enough yet, so you will have to adapt a new tactic of outnumbering your opponent, because 3 clubs is better then 1 spear.",
+		"img": "http://www.stickpage.com/img/stickwar_guide_fortify.jpg"
+	}, {
+		"name": "Swordwrath:",
+		"description": "Now you will learn the power of the almighty head shot! At this point it's likely you have used some of your upgrade points on increasing the which was wise because swordwrath are very strong up close and will slice your club men in half. If the gets a head shot on the swordwrath it's over; one shot one kill, with this they will quickly pay for themselves.",
+		"img": "http://www.stickpage.com/img/stickwar_guide_headshot.jpg"
+	}, {
+		"name": "Speartons:",
+		"description": "The Speartons are deadly, they can throw their spears and pull out a sword and keep on fighting. They also have shields and helmets which protect them from headshots and minimize damage from swords and arrows, so what will you do? Hopefully you have invested some upgrade points into your sword, because you will need a good combination of swordwrath and archidons to win here. I recommend more swordsmen then archidons. You really need to use numbers here, the Persians had the right idea, trust me.",
+		"img": "http://www.stickpage.com/img/stickwar_guide_spearton.jpg"
+	},{
+		"name": "Swordwrath Counter:",
+		"description": "You have been warned that an attack is coming so don't waste your money right away on an army that you won't use. Spend your money on miners, and get as much gold as you can, and spend it all as late as you can. Don't forget that some units take longer to train then others. So if you try to make 5 speartons quickly you could die waiting on them to train.",
+		"img": "http://www.stickpage.com/img/stickwar_guide_magikill.jpg"
+	}, {
+		"name": "Magikill",
+		"description": "Magikill might just make you rip your hair out when you first encounter them, you might even feel like there is no way around them or they are just too hard. But they are designed to force you to keep thinking up new strategy and not keep playing the same old way. For example, if you try the meat shield method on magikill they will just stun you over and over and create minions to finish you off. Their weakness is archidons and distance. You may need to fortify quickly to sucker the magikill into getting too close at times.",
+		"img": "http://www.stickpage.com/img/stickwar_guide_magikill.jpg"
+	},{
+		"name": "No Mans Land:",
+		"description": "The key to this stage is controlling swordwrath. You need to get swordwrath out fast and bring them around the back of giants to distract the dumb creatures, this will give the rest of your army a chance to rock him and keep him from moving forward to your statue. A few hits on your statue and you are done, don't let him get close!",
+		"img": "http://www.stickpage.com/img/stickwar_guide_giant.jpg"
+	}
+]
